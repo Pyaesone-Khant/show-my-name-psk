@@ -1,0 +1,22 @@
+{
+  "name": "show-my-name-psk",
+  "version": "1.0.0",
+  "description": "Building my own npm package!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PK-WookiDooki/show-my-name-psk.git"
+  },
+  "keywords": [
+    "show-my-name-psk"
+  ],
+  "author": "Pyaesone Khant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PK-WookiDooki/show-my-name-psk/issues"
+  },
+  "homepage": "https://github.com/PK-WookiDooki/show-my-name-psk#readme"
+}
