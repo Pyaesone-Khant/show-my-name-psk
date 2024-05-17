@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PK-WookiDooki/show-my-name-psk.git"
+    "url": "git+https://github.com/Pyaesone-Khant/show-my-name-psk.git"
   },
   "keywords": [
     "show-my-name-psk"
@@ -16,7 +16,7 @@
   "author": "Pyaesone Khant",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PK-WookiDooki/show-my-name-psk/issues"
+    "url": "https://github.com/Pyaesone-Khant/show-my-name-psk/issues"
   },
-  "homepage": "https://github.com/PK-WookiDooki/show-my-name-psk#readme"
+  "homepage": "https://github.com/Pyaesone-Khant/show-my-name-psk#readme"
 }
